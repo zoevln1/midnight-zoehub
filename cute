@@ -1,5 +1,5 @@
 loadstring((function() 
-    local r = game:HttpGet("https://raw.githubusercontent.com/zoevln1/godscopyemiszoe/refs/heads/main/px7q9a/midnight.txt") 
+    local r = game:HttpGet("https://raw.githubusercontent.com/zoevln1/Cute-Hub/refs/heads/main/Midnight") 
     local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/' 
     r = r:gsub('[^'..b..'=]','') 
     return (r:gsub('.',function(x) 
